@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832825100654",
+    "firebase_url": "https://taskforwission.firebaseio.com",
+    "project_id": "taskforwission",
+    "storage_bucket": "taskforwission.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832825100654:android:f55f336f032b6ba36a997f",
+        "android_client_info": {
+          "package_name": "com.faisaljaved.wission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832825100654-ehngr3pqnlcmsmgaedoqe77sbmmh23vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faisaljaved.wission",
+            "certificate_hash": "a0a30d1943946afc6eb4589978f12291ab1b534d"
+          }
+        },
+        {
+          "client_id": "832825100654-dfbj7ojjlh44qc0a357c1q8jd0frpme4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_2U2a_smzedYYwCHCZZTfvZR51qAjQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832825100654-dfbj7ojjlh44qc0a357c1q8jd0frpme4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
